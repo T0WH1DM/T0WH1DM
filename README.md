@@ -40,16 +40,6 @@
 <div align="left">
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/T0WH1DM/T0WH1DM/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Towhid">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Towhid&count=5" alt="[Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315od5u44e5alrgzn6exqpxyzqhe&count={count})"  />
-  </a>
-</div>
 
 ###
