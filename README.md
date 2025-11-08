@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning flutter</p>
+<p align="left">📚 I'm currently learning flutter & I’m looking to collaborate on open source projects</p>
 
 ###
 
