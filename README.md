@@ -6,6 +6,11 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code3-dev&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
+</p>
+
+
 <h2 align="left">About me</h2>
 
 ###
