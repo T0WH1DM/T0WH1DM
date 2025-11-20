@@ -6,9 +6,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code3-dev&theme=tokyonight&langs_count=12&hide_border=true&border_radius=20" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayangolmezerji&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F770&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
 
 <h2 align="left">About me</h2>
