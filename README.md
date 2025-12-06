@@ -57,4 +57,4 @@
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315od5u44e5alrgzn6exqpxyzqhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=315od5u44e5alrgzn6exqpxyzqhe&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pwo44avpdg5wjkad4dnf3teqqa&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=059900&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pwo44avpdg5wjkad4dnf3teqqa&redirect=true)
