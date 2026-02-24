@@ -14,17 +14,6 @@
 [![](https://visitcount.itsvg.in/api?id=T0WHIDM&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
-
-<h2 align="left">Connect with me:</h2>
-
-<div align="left">
-  <a href="https://t.me/T0WHID"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="48px" width="48px"></a>&nbsp;&nbsp;
-  <a href="mailto:towhidmgholami@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="48" title="Gmail"></a>&nbsp;&nbsp;
-
-    
-  <sub>**"Use `ctrl + click` to open it in a new window!"**</sub>
-</div>
 
 <h2 align="left">I code with</h2>
 
@@ -51,8 +40,6 @@
 
 <div align="left">
 </div>
-
-
 
 ###
 
