@@ -1,7 +1,7 @@
 # Hi there, I'm Lil fibonacci! 👋
 
 # 💫 About Me:
-🔭 👨‍💻 Flutter Developer <br>📚 I'm a passionate developer focused on building mobile applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning flutter<br>💬 Ask me about Dart & Flutter<br>
+🔭 👨‍💻 Flutter Developer <br>📚 I'm a passionate developer focused on building mobile applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m plan to learn kotlin<br>💬 Ask me about Dart & Flutter<br>
 
 
 ###
