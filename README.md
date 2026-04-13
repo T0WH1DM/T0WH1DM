@@ -1,46 +1,71 @@
-# Hi there, I'm Lil fibonacci! 👋
 
-# 💫 About Me:
-🔭 👨‍💻 Flutter Developer <br>📚 I'm a passionate developer focused on building mobile applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m plan to learn kotlin<br>💬 Ask me about Dart & Flutter<br>
-
-
-###
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=T0WHIDM&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T0WHIDM&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=T0WHIDM&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+<div align="center">
+  <img height="144" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lilfibonacci.Lilfibonacci&"  />
 </div>
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pwo44avpdg5wjkad4dnf3teqqa&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=059900&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pwo44avpdg5wjkad4dnf3teqqa&redirect=true)
+<h1 align="center">Hi there, I'm Lil fibonacci! 👋</h1>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="center">🔭 👨‍💻 Flutter Developer<br>📚 I'm a passionate developer focused on building mobile applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m plan to learn kotlin<br>💬 Ask me about Dart & Flutter</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="43" alt="dart logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="43" alt="flutter logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="43" alt="firebase logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="43" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="43" alt="figma logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="43" alt="xd logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="43" alt="postman logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="43" alt="android logo"  />
+</div>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lilfibonacci&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31pwo44avpdg5wjkad4dnf3teqqa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pwo44avpdg5wjkad4dnf3teqqa&count=7&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
